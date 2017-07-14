@@ -1,0 +1,14 @@
+1. React 공부
+
+.Babel ES6/ES7 설치
+.Git History 설치
+.HTML Snippet
+.jsx snippet
+.jsx Beautify
+.React code snippet
+.View in Browser
+
+1-1. git 설치 
+http://igotit.tistory.com/entry/Visual-Studio-Code-%EA%B0%9C%EC%9A%94-%EC%BD%94%EB%93%9C%ED%8E%B8%EC%A7%91%EC%A0%84%EB%AC%B8-Git-%EB%B9%8C%ED%8A%B8%EC%9D%B8
+https://git-scm.com/download/win
+
