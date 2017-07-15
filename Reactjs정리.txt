@@ -11,4 +11,8 @@
 1-1. git 설치 
 http://igotit.tistory.com/entry/Visual-Studio-Code-%EA%B0%9C%EC%9A%94-%EC%BD%94%EB%93%9C%ED%8E%B8%EC%A7%91%EC%A0%84%EB%AC%B8-Git-%EB%B9%8C%ED%8A%B8%EC%9D%B8
 https://git-scm.com/download/win
+http://gomcine.tistory.com/entry/VS-Code%EC%97%90-Git-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-Windows
 
+2-1. git 설정
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
