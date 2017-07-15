@@ -9,7 +9,7 @@ const defaultProps = {
     number: -1
 };
 
-//테스트
+
 export default class Value extends Component {
     constructor(props) {
         super(props);
